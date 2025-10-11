@@ -1,4 +1,4 @@
-# Welcome GitHub Flow
+# Welcome Git Flow
 
 ## Sample Web shop project
 
